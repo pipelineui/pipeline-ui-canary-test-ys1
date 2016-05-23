@@ -1,4 +1,4 @@
-var expect = require("expect");
+var expect = require('chai').expect;
 
 // Dummy mocha test for canary test
 describe("Dummy test", function () {
